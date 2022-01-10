@@ -1,0 +1,258 @@
+# depslib dependency file v1.0
+1639079118 source:c:\users\ceci\desktop\segundo parcial labii\sistema_gestion\sistema de gestion\cargardatos.cpp
+	<iostream>
+	"CargarDatos.h"
+	"Buque.h"
+	"Agencia.h"
+	"Region.h"
+	"Terminal.h"
+	"BaseCalculo.h"
+	"FuncionesGlobales.h"
+
+1639068120 c:\users\ceci\desktop\segundo parcial labii\sistema_gestion\sistema de gestion\cargardatos.h
+
+1638985299 c:\users\ceci\desktop\segundo parcial labii\sistema_gestion\sistema de gestion\include\buque.h
+	"Terminal.h"
+
+1639005745 c:\users\ceci\desktop\segundo parcial labii\sistema_gestion\sistema de gestion\include\terminal.h
+	"Domicilio.h"
+
+1638985299 c:\users\ceci\desktop\segundo parcial labii\sistema_gestion\sistema de gestion\include\domicilio.h
+
+1639075092 c:\users\ceci\desktop\segundo parcial labii\sistema_gestion\sistema de gestion\include\agencia.h
+
+1638985299 c:\users\ceci\desktop\segundo parcial labii\sistema_gestion\sistema de gestion\include\region.h
+
+1639074938 c:\users\ceci\desktop\segundo parcial labii\sistema_gestion\sistema de gestion\include\basecalculo.h
+	<string.h>
+	<bits/stdc++.h>
+
+1639074854 c:\users\ceci\desktop\segundo parcial labii\sistema_gestion\sistema de gestion\funcionesglobales.h
+	"Cronograma.h"
+	<bits/stdc++.h>
+
+1639076280 c:\users\ceci\desktop\segundo parcial labii\sistema_gestion\sistema de gestion\include\cronograma.h
+	<string.h>
+	"Fecha.h"
+	"BaseCalculo.h"
+
+1638985299 c:\users\ceci\desktop\segundo parcial labii\sistema_gestion\sistema de gestion\include\fecha.h
+
+1639068120 source:c:\users\ceci\desktop\segundo parcial labii\sistema_gestion\sistema de gestion\eliminarregistro.cpp
+	<iostream>
+	"EliminarRegistro.h"
+	"Buque.h"
+	"Agencia.h"
+	"Region.h"
+	"Terminal.h"
+	"BaseCalculo.h"
+	"FuncionesGlobales.h"
+
+1639068120 c:\users\ceci\desktop\segundo parcial labii\sistema_gestion\sistema de gestion\eliminarregistro.h
+
+1639068120 source:c:\users\ceci\desktop\segundo parcial labii\sistema_gestion\sistema de gestion\listados.cpp
+	<iostream>
+	"Listados.h"
+	"Buque.h"
+	"Agencia.h"
+	"Region.h"
+	"Terminal.h"
+	"BaseCalculo.h"
+	"FuncionesGlobales.h"
+
+1639068120 c:\users\ceci\desktop\segundo parcial labii\sistema_gestion\sistema de gestion\listados.h
+
+1639095504 source:c:\users\ceci\desktop\segundo parcial labii\sistema_gestion\sistema de gestion\src\agencia.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	"Agencia.h"
+	"../Validaciones.h"
+
+1639081374 c:\users\ceci\desktop\segundo parcial labii\sistema_gestion\sistema de gestion\validaciones.h
+	"Cronograma.h"
+
+1639079709 source:c:\users\ceci\desktop\segundo parcial labii\sistema_gestion\sistema de gestion\src\basecalculo.cpp
+	<iostream>
+	<clocale>
+	<string.h>
+	"BaseCalculo.h"
+	"Cronograma.h"
+	"Region.h"
+	"Terminal.h"
+	"Agencia.h"
+	"../Validaciones.h"
+
+1639075153 source:c:\users\ceci\desktop\segundo parcial labii\sistema_gestion\sistema de gestion\src\buque.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	"Buque.h"
+	"Terminal.h"
+	"Cronograma.h"
+	"Rlutil.h"
+	"../Validaciones.h"
+
+1638985299 c:\users\ceci\desktop\segundo parcial labii\sistema_gestion\sistema de gestion\src\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1639094826 source:c:\users\ceci\desktop\segundo parcial labii\sistema_gestion\sistema de gestion\src\cronograma.cpp
+	<iostream>
+	<ctime>
+	"Cronograma.h"
+	"BaseCalculo.h"
+	"Buque.h"
+	"Agencia.h"
+	"Fecha.h"
+	"Region.h"
+	"rlutil.h"
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	"../Validaciones.h"
+	<sstream>
+	<fstream>
+
+1638985299 source:c:\users\ceci\desktop\segundo parcial labii\sistema_gestion\sistema de gestion\src\domicilio.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	"Domicilio.h"
+	"../Validaciones.h"
+
+1639094727 source:c:\users\ceci\desktop\segundo parcial labii\sistema_gestion\sistema de gestion\src\estadistica.cpp
+	<iostream>
+	<clocale>
+	"Estadistica.h"
+	"../Validaciones.h"
+	"Cronograma.h"
+	"Agencia.h"
+	"Region.h"
+	"Buque.h"
+	<ctime>
+
+1639010248 c:\users\ceci\desktop\segundo parcial labii\sistema_gestion\sistema de gestion\include\estadistica.h
+
+1639068120 source:c:\users\ceci\desktop\segundo parcial labii\sistema_gestion\sistema de gestion\src\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string.h>
+	"Fecha.h"
+
+1638985299 source:c:\users\ceci\desktop\segundo parcial labii\sistema_gestion\sistema de gestion\src\region.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	"Region.h"
+	"../Validaciones.h"
+
+1639061539 source:c:\users\ceci\desktop\segundo parcial labii\sistema_gestion\sistema de gestion\src\terminal.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cstdio>
+	"Terminal.h"
+	"Domicilio.h"
+	"Buque.h"
+	"../Validaciones.h"
+
+1638985299 source:c:\users\ceci\desktop\segundo parcial labii\sistema_gestion\sistema de gestion\src\usuario.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string.h>
+	"Usuario.h"
+
+1638985299 c:\users\ceci\desktop\segundo parcial labii\sistema_gestion\sistema de gestion\include\usuario.h
+	<string.h>
+
+1639081632 source:c:\users\ceci\desktop\segundo parcial labii\sistema_gestion\sistema de gestion\validaciones.cpp
+	<iostream>
+	<clocale>
+	"BaseCalculo.h"
+	"Cronograma.h"
+	"Region.h"
+	"Terminal.h"
+	"Agencia.h"
+	"Buque.h"
+	"Usuario.h"
+	<ctime>
+
+1639094231 source:c:\users\ceci\desktop\segundo parcial labii\sistema_gestion\sistema de gestion\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string.h>
+	"Fecha.h"
+	<cstring>
+	<clocale>
+	"Buque.h"
+	"Agencia.h"
+	"Region.h"
+	"Terminal.h"
+	"Agencia.h"
+	"Fecha.h"
+	"FuncionesGlobales.h"
+	"Usuario.h"
+	"rlutil.h"
+	"BaseCalculo.h"
+	"EliminarRegistro.h"
+	"Cronograma.h"
+	"Listados.h"
+	"Estadistica.h"
+	<sstream>
+	<fstream>
+	"Validaciones.h"
+
+1638985299 c:\users\ceci\desktop\segundo parcial labii\sistema_gestion\sistema de gestion\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1639095564 source:c:\users\ceci\desktop\segundo parcial labii\sistema_gestion\sistema de gestion\funcionesglobales.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"rlutil.h"
+	"FuncionesGlobales.h"
+	"Usuario.h"
+	"Agencia.h"
+	"Fecha.h"
+	"Buque.h"
+	"Region.h"
+	"Cronograma.h"
+	"Terminal.h"
+	"Listados.h"
+	"CargarDatos.h"
+	"Estadistica.h"
+	"EliminarRegistro.h"
+	"BaseCalculo.h"
+	<sstream>
+	<fstream>
+	"Validaciones.h"
+
