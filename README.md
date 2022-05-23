@@ -1,4 +1,4 @@
-# Software --------->  Sistema de Coordinación para Cargas de Exportación
+# Software ---------> software para la de Coordinación para Cargas de Exportación
 
 Utiliza: 
 - C++
